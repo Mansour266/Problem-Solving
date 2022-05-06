@@ -9,7 +9,7 @@
 #include <cmath>//For sqrt function
 #include <iomanip>//for set precision function
 
-int main(){
+int solution(){
     long double h;
     std::cin >> h;
     if(h >= 1 && h <= 100000){

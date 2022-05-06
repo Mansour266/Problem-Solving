@@ -8,7 +8,7 @@
 #include <iostream>
 #include <string>
 
-int main(){
+int solution(){
     std::string number;
     std::cin >> number;
     std::string temp_number1{number[0]}, temp_number2{number[1]}, temp_number3{number[2]};
