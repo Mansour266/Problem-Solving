@@ -6,7 +6,7 @@
 
 #include <iostream>
 
-int solution(){
+void solution(){
     int n;
     std::cin >> n;
     if(n >= 1 && n <= 1000){
