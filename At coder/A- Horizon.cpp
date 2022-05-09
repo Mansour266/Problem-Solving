@@ -9,7 +9,7 @@
 #include <cmath>//For sqrt function
 #include <iomanip>//for set precision function
 
-void solution(){
+void solution_a_horizon(){
     long double h;
     std::cin >> h;
     if(h >= 1 && h <= 100000){
