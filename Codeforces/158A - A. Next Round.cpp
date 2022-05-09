@@ -2,7 +2,7 @@
  * This is solution to problem 158A in Code force in C++
  * Link: https://codeforces.com/problemset/problem/158/A
  * Author: Mansour
- * Last modified : 5/5/2022
+ * Last modified : 9/5/2022
  * */
 
 #include <iostream>
