@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main(){
+void solution_a_282(){
     int n,x{0};// N is the number of operations and X is the variable that operations are done on
     std::string operation;//This should handle whether the operation is ++ or --
     std::cin >> n;
