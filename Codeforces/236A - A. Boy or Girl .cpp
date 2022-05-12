@@ -9,6 +9,7 @@
 #include <algorithm>// To sort the letters
 
 void solution_a_236(){
+
     std::string word;
     std::cin >> word;
 
