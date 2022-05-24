@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main(){
+void solution_a_144(){
     int soldiers_no;
 
     std::cin >> soldiers_no;
