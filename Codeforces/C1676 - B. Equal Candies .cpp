@@ -10,7 +10,7 @@
 #include <algorithm>//To sort the vector of candies
 
 
-int main(){
+void solution_c_1676_b(){
     int test_cases;
 
     std::cin >> test_cases;
