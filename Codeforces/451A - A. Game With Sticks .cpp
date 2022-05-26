@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main(){
+void solution_a_451(){
     int n , m;
     std::cin >> n >> m;
 
