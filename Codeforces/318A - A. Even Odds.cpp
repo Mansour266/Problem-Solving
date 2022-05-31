@@ -8,7 +8,7 @@
 #include <iostream>
 
 
-int main(){
+void solution_a_318(){
     long long unsigned int n, index;
 
     std::cin >> n >> index;
