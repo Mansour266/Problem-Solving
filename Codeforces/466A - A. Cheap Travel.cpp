@@ -8,7 +8,7 @@
 #include <iostream>
 #include <algorithm>
 
-int main(){
+void solution_a_466(){
      int n, m, a, b;
 
     std::cin >> n >> m >> a >> b;
