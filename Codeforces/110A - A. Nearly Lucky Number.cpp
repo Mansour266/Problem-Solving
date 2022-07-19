@@ -7,7 +7,7 @@
 
 #include <bits/stdc++.h>
 
-int main(){
+void solution_a_110(){
     std::string no;
     std::cin >> no;
     int count{0};
