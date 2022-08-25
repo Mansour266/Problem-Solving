@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main(){
+void solution_a_59(){
     string word;
     cin >> word;
     int lower{0}, upper{0};
