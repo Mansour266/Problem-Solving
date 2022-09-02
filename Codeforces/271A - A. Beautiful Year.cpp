@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main(){
+void solution_a_271(){
     cin.tie(0), ios::sync_with_stdio(0);
     int year;
     cin >> year;
