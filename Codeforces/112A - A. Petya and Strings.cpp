@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <algorithm>// For converting the strings to lowercase
-int solution_a_112(){
+void solution_a_112(){
     std::string first_letters, second_letters;
     std::cin >> first_letters >> second_letters;
     //Now convert both strings to be lowercase both
