@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main(){
+void solution_a_34(){
     cin.tie(0),cout.tie(0),ios::sync_with_stdio(0);
     int n; cin >> n;
     int arr[n];
