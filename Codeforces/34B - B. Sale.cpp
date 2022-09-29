@@ -9,7 +9,7 @@
 
     using namespace std;
 
-    int main() {
+void solution_b_34() {
         cin.tie(nullptr), cout.tie(nullptr), ios::sync_with_stdio(false);
 
         int n,m, total{0}; cin >> n >> m;
