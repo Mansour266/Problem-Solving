@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main() {
+void solution_a_630() {
     cin.tie(nullptr), cout.tie(nullptr), ios::sync_with_stdio(false);
 
     string s; cin >> s;
