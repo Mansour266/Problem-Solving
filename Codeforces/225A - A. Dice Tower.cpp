@@ -1,8 +1,8 @@
 /*
- * This is solution to problem 894A in Codeforces in C++
- * Link: https://codeforces.com/problemset/problem/894/A
+ * This is solution to problem 225A in Codeforces in C++
+ * Link: https://codeforces.com/problemset/problem/225/A
  * Author: Mansour
- * Last modified : 3/10/2022
+ * Last modified : 4/10/2022
  */
 
 #include <bits/stdc++.h>
